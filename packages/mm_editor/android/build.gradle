@@ -1,0 +1,3 @@
+# packages/mm_editor/android/build.gradle
+
+implementation 'com.arthenica:ffmpeg-kit-full:6.0'
