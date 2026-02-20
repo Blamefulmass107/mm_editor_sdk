@@ -181,6 +181,7 @@ class ExportEngine {
             return
         }
 
+        exportSession.videoComposition = videoComposition 
         exportSession.outputURL = outputURL
         exportSession.outputFileType = .mp4
         exportSession.audioMix = audioMix
